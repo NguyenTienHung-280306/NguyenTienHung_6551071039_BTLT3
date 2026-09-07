@@ -1,0 +1,16 @@
+E:\Code\Bai2_WF\Bai2_WF\bin\Debug\net10.0-windows\Bai2_WF.exe
+E:\Code\Bai2_WF\Bai2_WF\bin\Debug\net10.0-windows\Bai2_WF.deps.json
+E:\Code\Bai2_WF\Bai2_WF\bin\Debug\net10.0-windows\Bai2_WF.runtimeconfig.json
+E:\Code\Bai2_WF\Bai2_WF\bin\Debug\net10.0-windows\Bai2_WF.dll
+E:\Code\Bai2_WF\Bai2_WF\bin\Debug\net10.0-windows\Bai2_WF.pdb
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.Form1.resources
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.csproj.GenerateResource.cache
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.AssemblyInfoInputs.cache
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.AssemblyInfo.cs
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.csproj.CoreCompileInputs.cache
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.dll
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\refint\Bai2_WF.dll
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.pdb
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\Bai2_WF.genruntimeconfig.cache
+E:\Code\Bai2_WF\Bai2_WF\obj\Debug\net10.0-windows\ref\Bai2_WF.dll

@@ -1,0 +1,16 @@
+E:\Code\Bai5_WF\Bai5_WF\bin\Debug\net10.0-windows\Bai5_WF.exe
+E:\Code\Bai5_WF\Bai5_WF\bin\Debug\net10.0-windows\Bai5_WF.deps.json
+E:\Code\Bai5_WF\Bai5_WF\bin\Debug\net10.0-windows\Bai5_WF.runtimeconfig.json
+E:\Code\Bai5_WF\Bai5_WF\bin\Debug\net10.0-windows\Bai5_WF.dll
+E:\Code\Bai5_WF\Bai5_WF\bin\Debug\net10.0-windows\Bai5_WF.pdb
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.Form1.resources
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.csproj.GenerateResource.cache
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.AssemblyInfoInputs.cache
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.AssemblyInfo.cs
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.csproj.CoreCompileInputs.cache
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.dll
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\refint\Bai5_WF.dll
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.pdb
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\Bai5_WF.genruntimeconfig.cache
+E:\Code\Bai5_WF\Bai5_WF\obj\Debug\net10.0-windows\ref\Bai5_WF.dll

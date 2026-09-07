@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Bai5_WF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4662CDAA-9428-4F6A-938A-B903C04B312A}|Bai5_WF\\Bai5_WF.csproj|e:\\code\\bai5_wf\\bai5_wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4662CDAA-9428-4F6A-938A-B903C04B312A}|Bai5_WF\\Bai5_WF.csproj|solutionrelative:bai5_wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4662CDAA-9428-4F6A-938A-B903C04B312A}|Bai5_WF\\Bai5_WF.csproj|e:\\code\\bai5_wf\\bai5_wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4662CDAA-9428-4F6A-938A-B903C04B312A}|Bai5_WF\\Bai5_WF.csproj|solutionrelative:bai5_wf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Code\\Bai5_WF\\Bai5_WF\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai5_WF\\Form1.cs",
+              "ToolTip": "E:\\Code\\Bai5_WF\\Bai5_WF\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai5_WF\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T03:49:27.561Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Code\\Bai5_WF\\Bai5_WF\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai5_WF\\Form1.cs",
+              "ToolTip": "E:\\Code\\Bai5_WF\\Bai5_WF\\Form1.cs",
+              "RelativeToolTip": "Bai5_WF\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T03:20:45.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
